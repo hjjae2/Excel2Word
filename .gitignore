@@ -1,0 +1,13 @@
+# Directory
+.idea
+
+__pycache__
+
+dist
+build
+
+# Files
+*.docx
+*.spec
+
+log.txt
