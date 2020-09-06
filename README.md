@@ -19,8 +19,15 @@
 
 <br>
 
-### Example
-<img src="./image/example02.gif" width="40%" height="40%">
+### Example1
+
+<img src="./image/example01.png" width="35%" height="35%">
+
+<br>
+
+### Example2
+
+<img src="./image/example02.gif" width="35%" height="35%">
 
 <br>
 
