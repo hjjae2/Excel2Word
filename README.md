@@ -12,22 +12,19 @@
 
 <br>
 
-### Env (with libraries)
+### 환경 (with libraries)
 - Python3
 - PyQt5
 - MailMerge
 
 <br>
 
-### Example1
+### 이미지
 
 <img src="./image/example01.png" width="40%" height="40%">
 
-<br>
-
-### Example2
-
 <img src="./image/example02.gif" width="40%" height="40%">
+
 
 <br>
 
