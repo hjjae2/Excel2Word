@@ -19,9 +19,11 @@
 
 <br>
 
-### 이미지
+### 예시 (결과물 이미지)
 
 <img src="./image/example01.png" width="40%" height="40%">
+
+<br>
 
 <img src="./image/example02.gif" width="40%" height="40%">
 
