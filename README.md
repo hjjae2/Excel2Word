@@ -1,14 +1,14 @@
-# Excel2Word
+## Excel2Word
 
-### About
-거래내역서 엑셀 파일을 워드 파일로 변환합니다.
+### 개요
+(거래내역서) 엑셀 파일을 워드 파일로 변환한다.
 
 <br>
 
-### Files
-- `run.py` : 메인 파일입니다.
-- `handle_word.py` : (생성될) word 파일과 관련된 파일입니다.
-- `handle_window.py` : window 위젯과 관련된 파일입니다.
+### 구조
+- `run.py` : 메인 파일
+- `handle_word.py` : word 파일 생성 (excel 데이터 조회 -> word 템플릿에 맞춰 데이터 가공/삽입)
+- `handle_window.py` : window 위젯 관리
 
 <br>
 
@@ -35,6 +35,3 @@
 - 2019.10.15
 
 <br><br>
-
-
-*Readme 최종 수정일: 2020-09-07*
